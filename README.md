@@ -12,7 +12,7 @@ Este repositorio reúne distintos desafíos de PLN. Por ahora solo está disponi
 
 ## Estructura
 
-- `[Notebooks/Desafio_1.ipynb](./Notebooks/Desafio_1.ipynb)`: Primer desafío de PLN.
+- [Notebooks/Desafio_1.ipynb](./Notebooks/Desafio_1.ipynb): Primer desafío de PLN.
 
 ## Uso
 
